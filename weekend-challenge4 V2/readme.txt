@@ -1,1 +1,0 @@
-Usage: bash game.sh [upper range]
